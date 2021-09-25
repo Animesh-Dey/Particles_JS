@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    user-select: none;
+}
+ /* body{
+    width: 100%;
+    height: 100vh; 
+    background: #2d3436;
+     overflow: hidden;
+}  */
+
+/* main{
+    width: 100%;
+    height: 100%;
+    border: orange solid 1px;
+    display: flex;
+} */
+#particles-js{
+    /* background: black; */
+    background: linear-gradient(to top right,aqua,black);
+    width: 100%;
+    height: 100vh;
+}
+
+
+
